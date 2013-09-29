@@ -356,18 +356,20 @@ class User
   {
     return $this->email_pref;
   }
-/*  
   /**********************************************************
   getNoEmail: return email preference for user object
   **********************************************************/
+/*  
   public function getNoEmail()
   {
     return $this->no_email;
   }
+*/  
 
   /**********************************************************
   getNoUsage: return usage preference for user object
   **********************************************************/
+/*  
   public function getNoUsage()
   {
     return $this->no_usage;
